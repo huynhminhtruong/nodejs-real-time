@@ -1,0 +1,4 @@
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/EventLoop
+https://nodesource.com/blog/understanding-the-nodejs-event-loop/
+https://viblo.asia/p/ban-nen-biet-closure-hoat-dong-nhu-the-nao-aWj53VQQl6m?utm_source=newsletter&utm_medium=email&utm_campaign=weekly_digest
+http://campus.codeschool.com/courses/real-time-web-with-node-js/level/1/video/1
