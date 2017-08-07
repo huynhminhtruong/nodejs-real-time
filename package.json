@@ -4,8 +4,9 @@
   "description": "Practice real time in nodejs",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1", 
-    "server": "nodemon server", 
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "server": "nodemon server",
+    "client": "nodemon client",
     "start": "npm install"
   },
   "repository": {
@@ -24,7 +25,8 @@
   },
   "homepage": "https://github.com/huynhminhtruong/nodejs-real-time#readme",
   "dependencies": {
-    "express": "^4.15.3"
+    "express": "^4.15.3",
+    "querystring": "^0.2.0"
   },
   "devDependencies": {
     "nodemon": "^1.11.0"
